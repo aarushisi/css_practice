@@ -35,5 +35,10 @@ img {
 }
 
 div {
-    padding: 
+    padding: 20px;
+    height: 125px;
+    border: 3px;
+    border-color: #ffffff;
+    border-style: solid;
 }
+
